@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @bivnmct23
+/src/backend/database.py      @bivnmct23
+/src/backend/routers/auth.py  @bivnmct23
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @bivnmct23
